@@ -8,6 +8,15 @@
 \description{
 Provides functions for learning about your R libraries.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/Fatemehatefi/libminer}
+  \item \url{https://fatemehatefi.github.io/libminer/}
+  \item Report bugs at \url{https://github.com/Fatemehatefi/libminer/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Fatemeh Hatefi \email{f.hatefi@gmail.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
