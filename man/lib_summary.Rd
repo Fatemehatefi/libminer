@@ -4,7 +4,7 @@
 \alias{lib_summary}
 \title{R Library Summary}
 \usage{
-lib_summary(sizes = FALSE)
+lib_summary(by = LibPath, sizes = FALSE)
 }
 \arguments{
 \item{sizes}{Should sizes of libraries be calculated. Default \code{FALSE}.}
