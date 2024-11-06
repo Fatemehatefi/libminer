@@ -2,13 +2,13 @@
 % Please edit documentation in R/lib_summary.R
 \name{lib}
 \alias{lib}
-\title{Generate a dataframe of installed packages}
+\title{Generate a data frame of installed packages}
 \usage{
 lib()
 }
 \value{
-dataframe of all packages installed on a system
+a data.frame of all packages installed on your system
 }
 \description{
-Generate a dataframe of installed packages
+Generate a data frame of installed packages
 }
