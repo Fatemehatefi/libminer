@@ -6,3 +6,4 @@ use.Rproj.user
 .quarto
 .Rproj.user
 docs
+inst/doc
